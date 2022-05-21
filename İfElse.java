@@ -1,5 +1,5 @@
 
-public class ifElse {
+public class ÝfElse {
 
 	public static void main(String[]args) {
 		

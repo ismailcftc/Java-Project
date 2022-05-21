@@ -17,9 +17,9 @@ public class Proje1NotUyglms {
 	
 	ortalama = (quiz * 0.2 ) + (vize*0.35) + (finals*0.45);
 
-	System.out.println("Not OrtalamanÄ±z :"+ ortalama);
+	System.out.println("Not Ortalamanýz :"+ ortalama);
 	
-	String sonuc = (ortalama >= 50) ? "Gectiniz :)" : "KaldÄ±nÄ±z :( ";
+	String sonuc = (ortalama >= 50) ? "Geçtiniz :)" : "Kaldýnýz :( ";
 	System.out.println(sonuc);
 	}
 
